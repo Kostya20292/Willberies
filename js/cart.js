@@ -1,4 +1,4 @@
-const cart = function () {
+const cart = () => {
   const cartBtn = document.querySelector(".button-cart");
   const cart = document.querySelector("#modal-cart");
   const closeBtn = cart.querySelector(".modal-close");
